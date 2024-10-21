@@ -16,14 +16,11 @@ debug.sf.disable_client_composition_cache=1
 debug.renderengine.backend=skiaglthreaded
 debug.hwui.skia_atrace_enabled=false
 ro.surface_flinger.enable_frame_rate_override=false
-ro.rising.maintainer=JAYZEE
-ro.rising.chipset=memekG69
 ro.config.media_vol_default=30
 persist.service.pcsync.enable=0
 persist.service.lgospd.enable=0
 debug.sf.disable_client_composition_cache=1
 debug.renderengine.backend=skiaglthreaded
-dalvik.vm.systemuicompilerfilter=speed-profile
 dalvik.vm.systemservercompilerfilter=speed-profile
 
 # Audio enhancer
